@@ -42,7 +42,9 @@ ProfitNet = ProfitBrut - (Frais)
 
 - Second constat, l'utilisation de flash loan sur les CEX (Binance, CryptoCom, Kraken) n'est pas possible nous avons donc opté pour utiliser les DEX (Décentralisés) comme Uniswap.
 
-- Pour tester les échanges 
+- Pour tester les échanges en local nous avons installé ganache mais nous avons rencontré des problèmes sur le déploiement
+  du serveur test et de l'utilisation de ganache-cli. Le but aurait été d'utiliser ganache pour simuler une block chain
+  et utiliser cette block chain pour réaliser des flash loan. 
 
 
 
