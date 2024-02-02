@@ -2,7 +2,7 @@
 #   STOP THE COUNT / BOT ARBITRAGE   
 #        Louis Simon Alban           
 
-# `#0969DA` But du projet : 
+# #0969DA But du projet : 
 Le projet est réalisé sous la forme d'un POC.
 Développer un bot permettant de réaliser des arbitrages de crypto monaies
 sur différentes plateformes et en tirer des bénéfices grâce à la méthode
