@@ -14,6 +14,7 @@ du flash loan ou "prêt express".
 # URL :
 - NOTION : https://www.notion.so/Stop-the-count-bot-arbitrage-787a25556a074f79b9335a3c70bbfe70
 - Fichier problèmes: https://github.com/SannierAlban/Flash-Loan-aave/blob/main/Problemes.md
+- Fichier sujets abordés: https://github.com/SannierAlban/Flash-Loan-aave/blob/main/SujetsAbordes.md
 - Flash loan contract deployed at: 0xbd82c10B70c405Da987b44d1c1A253d0ce318219
 - Git watcher python: https://github.com/SannierAlban/CEX-watcher
 - Git Electron app: https://github.com/Alannorr/Arbitrage_Electron_App
