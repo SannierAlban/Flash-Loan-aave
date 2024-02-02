@@ -34,7 +34,7 @@ Pour réaliser ces opérations il est nécessaire d'installer ccxt
 - Profit Brut= (QteAchetee * PrixVentePlateforme2) - (QteAchetee * PrixAchatPlateforme1)
 - ProfitNet = ProfitBrut - (Frais)
 
-- La prochaine étape consistait donc à récupérer les différents frais via les API.
+# La prochaine étape consistait donc à récupérer les différents frais via les API.
 
 - Après rélfexion nous nous sommes rendu compte que nous n'allions pas utiliser de
   smart contract car tout été faisable en python via les api et nos clés privées.
