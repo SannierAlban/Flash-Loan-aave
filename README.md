@@ -12,10 +12,11 @@ sur différentes plateformes et en tirer des bénéfices grâce à la méthode
 du flash loan ou "prêt express". 
 
 # URL :
-NOTION : https://www.notion.so/Stop-the-count-bot-arbitrage-787a25556a074f79b9335a3c70bbfe70
-Fichier problèmes: https://github.com/SannierAlban/Flash-Loan-aave/blob/main/Problemes.md
-Flash loan contract deployed at: 0xbd82c10B70c405Da987b44d1c1A253d0ce318219
-
+- NOTION : https://www.notion.so/Stop-the-count-bot-arbitrage-787a25556a074f79b9335a3c70bbfe70
+- Fichier problèmes: https://github.com/SannierAlban/Flash-Loan-aave/blob/main/Problemes.md
+- Flash loan contract deployed at: 0xbd82c10B70c405Da987b44d1c1A253d0ce318219
+- Git watcher python: https://github.com/SannierAlban/CEX-watcher
+- Git Electron app: https://github.com/Alannorr/Arbitrage_Electron_App
 # Technologies utilisées
 
 - Python pour le script principal avec les libraries ccxt
