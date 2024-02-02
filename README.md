@@ -1,6 +1,9 @@
                                     
 #   STOP THE COUNT / BOT ARBITRAGE   
 #        Louis Simon Alban           
+```louis.falce@gmail.com```
+```simon.houtekiet@gmail.com```
+```BalanSannier@gmail.com```
 
 #  But du projet : 
 Le projet est réalisé sous la forme d'un POC.
