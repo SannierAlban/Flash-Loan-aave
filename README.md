@@ -3,7 +3,7 @@
 #        Louis Simon Alban           
 
 #  But du projet : 
-Le projet est réalisé sous la forme d'un #f7230c  POC.
+Le projet est réalisé sous la forme d'un POC.
 Développer un bot permettant de réaliser des arbitrages de crypto monaies
 sur différentes plateformes et en tirer des bénéfices grâce à la méthode
 du flash loan ou "prêt express". 
