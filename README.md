@@ -5,34 +5,34 @@
 #                                    #
 ######################################
 
-But du projet : 
+# But du projet : 
 Le projet est réalisé sous la forme d'un POC.
 Développer un bot permettant de réaliser des arbitrages de crypto monaies
 sur différentes plateformes et en tirer des bénéfices grâce à la méthode
 du flash loan ou "prêt express". 
 
-*URL :
+# URL :
 NOTION : https://www.notion.so/Stop-the-count-bot-arbitrage-787a25556a074f79b9335a3c70bbfe70
 Fichier problèmes: https://github.com/SannierAlban/Flash-Loan-aave/blob/main/Problemes.md
 Flash loan contract deployed at: 0xbd82c10B70c405Da987b44d1c1A253d0ce318219
 
-#Technologies utilisées
+# Technologies utilisées
 
 - Python pour le script principal avec les libraries ccxt
 - Solidity pour écrire les smart contract (normalement appelés par le script Python)
 - Electron comme framework d'application 
 
-#Etapes du projet
+# Etapes du projet
 
 - Nous avons commencé par implémenter les API de différentes plateformes 
 dans le but de récupérer les prix en USDT des crypto monaies désirées.
 Pour réaliser ces opérations il est nécessaire d'installer ccxt
 
- - pip install ccxt 
+```pip install ccxt``` 
 
-La formule pour réaliser un arbitrage vaut :  
-Profit Brut= (QteAchetee * PrixVentePlateforme2) - (QteAchetee * PrixAchatPlateforme1)
-ProfitNet = ProfitBrut - (Frais)
+# La formule pour réaliser un arbitrage vaut :  
+- Profit Brut= (QteAchetee * PrixVentePlateforme2) - (QteAchetee * PrixAchatPlateforme1)
+- ProfitNet = ProfitBrut - (Frais)
 
 - La prochaine étape consistait donc à récupérer les différents frais via les API.
 
